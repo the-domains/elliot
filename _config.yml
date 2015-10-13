@@ -1,6 +1,7 @@
 name: elliot
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 1
+typography_spectrum: 0.79969
 title: Elliot Schultz
 cta:
   domain: null
@@ -15,11 +16,16 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#4d9da6'
+    - '#a5a893'
+    - '#e8cebd'
+    - '#466142'
+    - '#bb2320'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 0.875
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose:
   - name: follow
     item: a11ed77b-d9f7-4c85-b27c-f5dd9c2d40ee
