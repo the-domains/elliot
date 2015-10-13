@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Elliot Schultz]]></title>
+        <description><![CDATA[Elliot Schultz]]></description>
+        <link>https://thegrid.ai/elliot/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 13 Oct 2015 02:41:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elliot/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Animated Loop for 'Sticky Fingers - Dreamland' Music Video]]></title>
+            <description><![CDATA[<article><h1>Animated Loop for 'Sticky Fingers - Dreamland' Music Video</h1><p>This is a short loop that I animated for the 'Dreamland' music video for Sticky Fingers. Every frame was hand drawn and coloured using Photoshop. Check out the official video here: http://www.youtube.com/watch?v=zgnxZUUtIdg</p><img src="http://i.vimeocdn.com/video/515818510_1280.jpg"></article>]]></description>
+            <link>https://vimeo.com/125646400</link>
+            <guid isPermaLink="false">1991a01b-f3d6-4fd6-bd5d-e5b8a5290fd2</guid>
+            <pubDate>Tue, 13 Oct 2015 02:41:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>About animator and digital artist Elliot Schultz.</p></article>]]></description>
+            <link>https://thegrid.ai/elliot/about/index.html</link>
+            <guid isPermaLink="false">0f912fa4-3a44-4d01-9d44-074fa54807b1</guid>
+            <pubDate>Tue, 13 Oct 2015 02:36:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Embroidered Zoetrope]]></title>
+            <description><![CDATA[<article><h1>Embroidered Zoetrope</h1><p>This project encourages viewers to watch and engage with animation physically. Discs were created with animated sequences embroidered onto their surface. They have been designed to be played on standard turntables and their shape and size is inherited from 10" vinyl records.</p><img src="http://i.vimeocdn.com/video/526472200_1280.jpg"></article>]]></description>
+            <link>https://thegrid.ai/elliot/embroidered-zoetrope/index.html</link>
+            <guid isPermaLink="false">a11ed77b-d9f7-4c85-b27c-f5dd9c2d40ee</guid>
+            <pubDate>Tue, 13 Oct 2015 02:23:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
