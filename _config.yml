@@ -1,6 +1,7 @@
 name: elliot
 favicon: null
 layout_spectrum: 0.8
+title: Elliot Schultz
 cta:
   domain: null
   bucket: null
@@ -21,5 +22,5 @@ color:
   rhythmicContrast: 0.5
 purpose:
   - name: follow
-    item: null
+    item: a11ed77b-d9f7-4c85-b27c-f5dd9c2d40ee
     url: null
