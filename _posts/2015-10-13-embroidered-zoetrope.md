@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - elliotschultz
   - meltcanberra
@@ -16,8 +16,8 @@ keywords:
   - anu
   - melt_cbr
 description: 'This project encourages viewers to watch and engage with animation physically. Discs were created with animated sequences embroidered onto their surface. They have been designed to be played on standard turntables and their shape and size is inherited from 10" vinyl records.'
-datePublished: '2015-10-13T02:23:44.007Z'
-dateModified: '2015-10-13T02:23:12.552Z'
+datePublished: '2015-10-13T02:44:56.075Z'
+dateModified: '2015-10-13T02:44:48.357Z'
 author:
   - name: Elliot Schultz
     url: 'http://vimeo.com/elliotschultz'
